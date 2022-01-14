@@ -1,29 +1,29 @@
-header{
-    background-color: var(--color-primary);
+header {
     height: 60px;
+    background-color: var(--color-primary);
     display: flex;
     align-items: center;
 }
 
-.rafamovies-nav-content{
+.rafamovies-nav-content {
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    justify-content: space-between;
     color: #fff;
 }
 
-.rafamovies-nav-content h1{
+.rafamovies-nav-content h1 {
+    font-size: 24px;
     margin: 0;
     font-weight: 700;
-    font-size: 24px;
 }
 
-.rafamovies-contact-container{
+.rafamovies-contact-container {
     display: flex;
     align-items: center;
 }
 
-.rafamovies-contact-link{
-    margin: 0,0,0,10px;
+.rafamovies-contact-link {
+    margin: 0 0 0 10px;
     font-size: 12px;
 }
